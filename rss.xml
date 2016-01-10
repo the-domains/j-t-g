@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[welcome to the things that I do]]></title>
         <description><![CDATA[welcome to the things that I do]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j-t-g/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 22:45:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 22:46:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-t-g/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[studio]]></title>
+            <description><![CDATA[<article><h1>studio</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bbc3d86-9ee7-4078-a3d4-74ff1e32ae36.jpg"></article>]]></description>
+            <link>https://thegrid.ai/j-t-g/studio/index.html</link>
+            <guid isPermaLink="false">49441892-eaae-4646-af77-bd8271bed4ac</guid>
+            <pubDate>Sun, 10 Jan 2016 22:46:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[furniture]]></title>
             <description><![CDATA[<article><h1>furniture</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b4be39b-1afc-421f-83e8-adf5664335b6.jpg"></article>]]></description>
-            <link>undefinedfurniture/index.html</link>
+            <link>https://thegrid.ai/j-t-g/furniture/index.html</link>
             <guid isPermaLink="false">ec7b6be2-e87b-4ce5-8996-12110802a17f</guid>
             <pubDate>Sun, 10 Jan 2016 22:45:06 GMT</pubDate>
         </item>
