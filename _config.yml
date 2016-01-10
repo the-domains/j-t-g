@@ -1,6 +1,6 @@
 name: J T G
 favicon: null
-layout_spectrum: 0.52733
+layout_spectrum: 0.6876
 typography_spectrum: 0.83839
 title: null
 cta:
@@ -24,6 +24,6 @@ color:
     - '#b6c0c0'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5625
+  saturation: 0.75
   rhythmicContrast: 0.25
 purpose: []
