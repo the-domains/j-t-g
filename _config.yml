@@ -1,0 +1,28 @@
+name: J T G
+favicon: null
+layout_spectrum: 0.4538713472429663
+typography_spectrum: 0.4961610217578709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3629387756809592
+  lightness: 0.9636736889369786
+  saturation: 0.2216021823696792
+  rhythmicContrast: 0.3486895808018744
+purpose: []
