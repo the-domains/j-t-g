@@ -1,7 +1,7 @@
 name: J T G
 favicon: null
 layout_spectrum: 0.24853
-typography_spectrum: 0.4961610217578709
+typography_spectrum: 0.83839
 title: welcome to the things that I do
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.125
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
